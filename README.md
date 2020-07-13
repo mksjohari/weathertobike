@@ -18,9 +18,6 @@ Our application's main features include:
 * Record previous trips
   * All trips made through the 'Map my ride' feature is recorded if the logged-in user decides 'Yes' to ride their bike.
 
-## Want to clone our repository?
-[GitHub repository](https://github.com/akelms/info30005-2019-pf.git)
-
 ## Frequently asked questions
 * How does this application retrieve its weather data?
   * **We utilise publically available API's such as Google Maps and DarkSky to retrieve directions, travel times and weather data**
